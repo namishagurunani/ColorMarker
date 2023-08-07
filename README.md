@@ -1,6 +1,5 @@
 # Color Marker UI->>
-![image](https://github.com/namishagurunani/ColorMarker/assets/126158413/badc1dc0-8b9f-45fc-b978-5a74e22227cd)
-
+![image](https://github.com/namishagurunani/ColorMarker/assets/126158413/2a012442-eef8-4f4d-8554-789e69e7f2ca)
 # HTML Explanation:
 - 'h1'CSS Color Markers - A level one heading that displays the text "CSS Color Markers" and is centered due to the CSS style applied later.
 - 'div class='container' - A container div that wraps the colored marker divs. It has a white background and padding to create some space between the markers.
@@ -20,7 +19,6 @@
    from dark brown to light red. It also adds a box shadow with a reddish tint.
 - .green: Applies styles to elements with class "green," which is the green-colored marker. It sets a background gradient from dark green to light green and adds a box shadow with a green tint.
 - .blue: Applies styles to elements with class "blue," which is the blue-colored marker. It sets a background gradient from dark blue to light blue and adds a box shadow with a blue tint.
-
 # Sumbission-Required
 - FreeCodeCamp Link:[click here](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-94)
 - FreeCodeCamp Id:[click here](https://www.freecodecamp.org/namisha_gurunani)
